@@ -4,6 +4,8 @@ author= "udspj"
 title = "ゆらゆら魔法少女"
 theme = "hyde-hyde"
 
+googleAnalytics= "UA-19868922-3"
+
 [params]
 
 themeColor = "theme-base-0c"
