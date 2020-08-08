@@ -13,5 +13,5 @@ date: 2020-06-25T18:00:00+09:00
 
 
 ![p1](/img/20200625/photo_2020-08-08_15-43-07.jpg)
-![p1](/img/20200625/WeChata01603e6b50d7d2a801dcd5fb1d67dcc.png)
+![p2](/img/20200625/WeChata01603e6b50d7d2a801dcd5fb1d67dcc.png)
 
