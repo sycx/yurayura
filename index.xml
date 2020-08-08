@@ -2,60 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ゆらゆら魔法少女</title>
-    <link>http://yura.sycx.me/</link>
+    <link>https://yura.sycx.me/</link>
     <description>Recent content on ゆらゆら魔法少女</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Sat, 08 Aug 2020 18:00:00 +0900</lastBuildDate>
     
-	<atom:link href="http://yura.sycx.me/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://yura.sycx.me/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>新たな同人誌</title>
-      <link>http://yura.sycx.me/posts/20200808/</link>
+      <link>https://yura.sycx.me/posts/20200808/</link>
       <pubDate>Sat, 08 Aug 2020 18:00:00 +0900</pubDate>
       
-      <guid>http://yura.sycx.me/posts/20200808/</guid>
+      <guid>https://yura.sycx.me/posts/20200808/</guid>
       <description>何を書くかな。 魔法少女系の同人を書きたいな。まだ細かいことは考えていない。
 ゆるキャンを作る時に考えた、少し絵に時間をかけられなければよいと思って、AIを借りて色を塗るのを試しよ。</description>
     </item>
     
     <item>
       <title>ゆるキャン同人完成した！</title>
-      <link>http://yura.sycx.me/posts/20200705/</link>
+      <link>https://yura.sycx.me/posts/20200705/</link>
       <pubDate>Sun, 05 Jul 2020 18:00:00 +0900</pubDate>
       
-      <guid>http://yura.sycx.me/posts/20200705/</guid>
+      <guid>https://yura.sycx.me/posts/20200705/</guid>
       <description>今回は英語版出すつもりはない。そんなに暇はない。
 目次はこれ。</description>
     </item>
     
     <item>
       <title>やっぱ表紙を決めるのは一番難しいこと</title>
-      <link>http://yura.sycx.me/posts/20200625/</link>
+      <link>https://yura.sycx.me/posts/20200625/</link>
       <pubDate>Thu, 25 Jun 2020 18:00:00 +0900</pubDate>
       
-      <guid>http://yura.sycx.me/posts/20200625/</guid>
+      <guid>https://yura.sycx.me/posts/20200625/</guid>
       <description>表紙を決めるのは一番時間かかること。 主な問題は、自分が絵下手すぎる。想像した絵は描けない。特に背景は苦手て、結局三日間かかった。
 完成した際に、バグが発見！ りんごを包んだ赤い糖の絵が間違いた。</description>
     </item>
     
     <item>
       <title>英語版やっと完成した！</title>
-      <link>http://yura.sycx.me/posts/20200514/</link>
+      <link>https://yura.sycx.me/posts/20200514/</link>
       <pubDate>Thu, 14 May 2020 18:00:00 +0900</pubDate>
       
-      <guid>http://yura.sycx.me/posts/20200514/</guid>
+      <guid>https://yura.sycx.me/posts/20200514/</guid>
       <description>英語を書くのは疲れるので、英語のあとがきはお礼と連絡先を書くだけ。 </description>
     </item>
     
     <item>
       <title>英語翻訳って大変</title>
-      <link>http://yura.sycx.me/posts/20200423/</link>
+      <link>https://yura.sycx.me/posts/20200423/</link>
       <pubDate>Thu, 23 Apr 2020 18:00:00 +0900</pubDate>
       
-      <guid>http://yura.sycx.me/posts/20200423/</guid>
+      <guid>https://yura.sycx.me/posts/20200423/</guid>
       <description>一冊目の同人誌を英訳することを決めた。 でも英語を書くのは大変そう。英単語は意味がはっきりしている、単語の適用範囲が非常に狭い。使うとこを間違えると気まずい。 一部の日本語をどうやって英訳すればいいのかわからない。例えば、先輩、すごい。どうやって翻訳するのかがわからないので、セリフから削除しかない。
 翻訳する時調べることは多くて、たまには面白いものを発見。
 一番難しいのはやはりタイトルの翻訳だ。 気になるのは、ofを追加するのか？a(もしくはan)を追加するのか？&amp;lsquo;sを追加するのか？どの書き方が正しいのか区別がつかない。 幸いこれを検索した。大助かりました。 </description>
@@ -63,28 +63,28 @@
     
     <item>
       <title>マンガ背景について</title>
-      <link>http://yura.sycx.me/posts/20200321/</link>
+      <link>https://yura.sycx.me/posts/20200321/</link>
       <pubDate>Sat, 21 Mar 2020 18:00:00 +0900</pubDate>
       
-      <guid>http://yura.sycx.me/posts/20200321/</guid>
+      <guid>https://yura.sycx.me/posts/20200321/</guid>
       <description>Blenderを使って3D背景を作成してみた、いいみたいですね。そうすれば、遠近法を間違えることはなくなった。 そして、背景は一度やってしまえば、ずっと使えるようになった。</description>
     </item>
     
     <item>
       <title>経路探索系面倒</title>
-      <link>http://yura.sycx.me/posts/20200205/</link>
+      <link>https://yura.sycx.me/posts/20200205/</link>
       <pubDate>Wed, 05 Feb 2020 18:00:00 +0900</pubDate>
       
-      <guid>http://yura.sycx.me/posts/20200205/</guid>
+      <guid>https://yura.sycx.me/posts/20200205/</guid>
       <description>数年前描かれていたNEW GAME✖️ブロックチェーンを日本語に翻訳した。専門用語難しいね。 一冊目の同人誌完成した際に、ゆるキャン✖️経路探索の同人誌作業を始めた。すべての問題は経路探索系なので、解答を書くのがめんどくさい。 あおいちゃんが関西弁だからこれを使って、セリフを関西弁になる。便利だね。 </description>
     </item>
     
     <item>
       <title>解法ステップ数ちょっと多くない</title>
-      <link>http://yura.sycx.me/posts/20200125/</link>
+      <link>https://yura.sycx.me/posts/20200125/</link>
       <pubDate>Sat, 25 Jan 2020 18:00:00 +0900</pubDate>
       
-      <guid>http://yura.sycx.me/posts/20200125/</guid>
+      <guid>https://yura.sycx.me/posts/20200125/</guid>
       <description>うまく出題しなかったのせいで、解くのに6ページ丸ごとかかった。 読者たちが全体を読む忍耐力があるかどうかはともかく、これを書いているうちに忍耐力が尽きてきた。でも、ほぼ完成しているから仕方がない。
 そして今夜の成果はこれだけ…
 一応特記事項を書いていこう。万が一、同人誌に書いたやり方をベストな解き方に思われるかも。</description>
@@ -92,30 +92,30 @@
     
     <item>
       <title>日本語版やっと完成した！</title>
-      <link>http://yura.sycx.me/posts/20200112/</link>
+      <link>https://yura.sycx.me/posts/20200112/</link>
       <pubDate>Sun, 12 Jan 2020 18:00:00 +0900</pubDate>
       
-      <guid>http://yura.sycx.me/posts/20200112/</guid>
+      <guid>https://yura.sycx.me/posts/20200112/</guid>
       <description>ストーリーに合う問題を選択することから始めた。問題を面白く見せるために、ダンジョン脱出RPGみたいなシナリオを作った。問題を解決するためのステップを書き、漫画セリフを付けて、レイアウト始めた。 同人誌完成した後、一度レビューした。不備なところあれば修正して、問題なければ販売開始！
 あとがき添えたけど、何を話せば思いつかないね。 適当に書こうか。</description>
     </item>
     
     <item>
       <title>職場用語なんてよくわかない</title>
-      <link>http://yura.sycx.me/posts/20191228/</link>
+      <link>https://yura.sycx.me/posts/20191228/</link>
       <pubDate>Thu, 28 Nov 2019 18:00:00 +0900</pubDate>
       
-      <guid>http://yura.sycx.me/posts/20191228/</guid>
+      <guid>https://yura.sycx.me/posts/20191228/</guid>
       <description>社会人だけど、正式な職場用語がよくわかないね。 会社での正しい言葉遣いって、こんな感じかな？
 いろいろ検索してみたけど、1日で書いたのはこれだけ。</description>
     </item>
     
     <item>
       <title>同人誌書き始める前に、表紙決めなきゃ</title>
-      <link>http://yura.sycx.me/posts/20191121/</link>
+      <link>https://yura.sycx.me/posts/20191121/</link>
       <pubDate>Thu, 21 Nov 2019 18:00:00 +0900</pubDate>
       
-      <guid>http://yura.sycx.me/posts/20191121/</guid>
+      <guid>https://yura.sycx.me/posts/20191121/</guid>
       <description>2年前にオリジナルマンガを描いていたから、いっそ同人誌作ろうか。
 まずは、表紙から。
 どっちがいいかな？</description>

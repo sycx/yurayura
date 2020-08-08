@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on ゆらゆら魔法少女</title>
-    <link>http://yura.sycx.me/categories/</link>
+    <link>https://yura.sycx.me/categories/</link>
     <description>Recent content in Categories on ゆらゆら魔法少女</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     
-	<atom:link href="http://yura.sycx.me/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://yura.sycx.me/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
